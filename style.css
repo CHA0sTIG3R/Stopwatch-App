@@ -1,0 +1,42 @@
+html {
+    height: 100%;
+}
+
+html,
+body {
+    background-color: #1B1D26;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    min-height: 100%;
+}
+
+header {
+    min-height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#title {
+    color: #edf6f6;
+}
+
+#div1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h2 {
+    color: #edf6f6;
+}
+
+.button {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
