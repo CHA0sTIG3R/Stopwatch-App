@@ -10,7 +10,7 @@ let resetBtn = Btn[2];
 
 stopBtn.style.display = 'none';
 resetBtn.style.display = 'none';
-const timeCount = (st) => {
+const timeCount = () => {
     let hr = Math.floor(counter / 360000);
     let s = Math.floor((counter % 6000) / 100);
     let m = Math.floor((counter % 360000) / 6000);
