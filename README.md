@@ -10,4 +10,4 @@ This script wasn't written by me, but was used to make sure the stopwatch is sti
 running correctly even after switching to another tab or minimizing your browser.
 for more info about this script go here https://github.com/turuslan/HackTimer.
 
-Now I hope This works for whoever you and thanks for coming.
+Now I hope This works for whoever you are and thanks for coming.
